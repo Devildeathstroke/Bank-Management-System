@@ -11,6 +11,8 @@ This is a simple console-based **Bank Management System** written in C++. The pr
 - **Modify Account**: Update account holder's name, type, or balance.
 - **Delete Account**: Close and delete an account from the system.
 
+![Bank Management System Output Screen](images/Bank-Output.png)
+
 ## Files
 
 - `main.cpp`: Contains the entire program logic, including account management and file handling.
@@ -23,8 +25,7 @@ This is a simple console-based **Bank Management System** written in C++. The pr
 
 ## Author
 
-Gaurav Yadav  
-School: Delhi Technological University
+Gaurav Yadav
 
 ---
 
